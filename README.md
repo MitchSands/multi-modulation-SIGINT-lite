@@ -54,17 +54,16 @@ After decoding, the program will run a quick BER test across SNR values from 0 d
 
 SUMMARY REPORT
 
-========================================
-Modulation Type: FSK
-Total Bits: 288.0
-Transmission Duration: 0.4799 seconds
-Bit Errors: 0
-Bit Error Rate (BER): 0.00000
+- Modulation Type: FSK
+- Total Bits: 288.0
+- Transmission Duration: 0.4799 seconds
+- Bit Errors: 0
+- Bit Error Rate (BER): 0.00000
 
 --- Message Comparison ---
-Original: Test string showing zero bit errors.
-Decoded : Test string showing zero bit errors.
-========================================
+- Original: Test string showing zero bit errors.
+- Decoded : Test string showing zero bit errors.
+
 
 #### 1. Spectrogram of Noisy Signal  
 Shows the frequency content over time. Useful especially for visualizing FSK behavior.
